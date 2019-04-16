@@ -1,2 +1,4 @@
 ‚¬‚Á‚Æ‚Ì—ûK
 ‚Ş‚¸‚¢‚æ
+git add
+gid commit
