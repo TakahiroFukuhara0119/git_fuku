@@ -1,5 +1,6 @@
 ‚¬‚Á‚Æ‚Ì—ûK
 ‚Ş‚¸‚¢‚æ
 git add
-gid commit
+git commit
 git rm
+git status
