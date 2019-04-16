@@ -2,3 +2,4 @@
 ‚Þ‚¸‚¢‚æ
 git add
 gid commit
+git rm
